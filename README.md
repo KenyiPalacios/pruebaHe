@@ -1,2 +1,2 @@
 # pruebaHe
-Prueba modulo2 de He
+Prueba de proyecto Henry modulo2
